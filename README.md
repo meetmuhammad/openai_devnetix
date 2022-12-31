@@ -13,7 +13,7 @@ If you're looking for a powerful chatbot that can help you provide better custom
 - Clone the repo to your local folder
 - Run yarn install or npm install in both directories "/client" and "/server"
 - Inside "server" folder, rename .env-sample to .env
-- Add API Openai API - [API KEY HERE](https://beta.openai.com/account/api-keys)
+- Add Openai API - [API KEY HERE](https://beta.openai.com/account/api-keys)
 - Go inside the "server" folder and run "yarn run server" or "npm run server". It will run your server on port 5000
 - Open new terminal and go in "client" folder.
 - Run "yarn run dev" or "npm run dev"

@@ -77,7 +77,7 @@ const handleSubmit = async (e) => {
   loader(messageDiv);
 
   //fetch data from Server
-  const response = await fetch('http://localhost:9000/', {
+  const response = await fetch('http://localhost:5000/', {
     method: 'POST',
     headers: {
       'content-Type': 'application/json',
